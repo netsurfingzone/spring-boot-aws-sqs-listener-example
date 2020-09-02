@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-aws-sqs-listener-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rakes
+Implementation-Vendor-Id: spring-boot-aws-sqs-listener-example
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-aws-sqs-listener-example
+Created-By: Maven Integration for Eclipse
+
