@@ -1,4 +1,4 @@
-# spring-boot-sqs-example
+# Spring Boot AWS SQS Listener Example
 Spring Boot AWS SQS Listener Example 
 #See complete example here(https://www.netsurfingzone.com/aws/spring-boot-aws-sqs-listener-example/).
 
