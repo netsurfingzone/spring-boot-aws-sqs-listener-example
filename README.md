@@ -1,6 +1,6 @@
 # Spring Boot AWS SQS Listener Example
 Spring Boot AWS SQS Listener Example 
-#See complete example here(https://www.netsurfingzone.com/aws/spring-boot-aws-sqs-listener-example/).
+#See complete example here(https://www.javatute.com/aws/spring-boot-aws-sqs-listener-example/).
 
 The above example covers below topics.
 1. AWS Management Console setup for Spring Boot AWS SQS listener example.
